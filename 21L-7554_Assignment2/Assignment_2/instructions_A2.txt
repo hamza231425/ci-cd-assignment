@@ -1,0 +1,26 @@
+Assignment Submission Requirements
+
+1. PDF Report:
+Login Functionality Overview:Description of the login functionality provided in the Java file.
+Any changes made to username/password in the code to run locally.
+
+Test Case Descriptions:
+For each of the 5 test cases, provide:
+Test case name
+Purpose of the test
+Expected outcome
+Actual outcome
+Explanation of assertions used (multiple asserts are expected within a single test case).
+
+Test Coverage Results:
+Include screenshots of test coverage results (with explanation of coverage percentage).
+Explanation of how you achieved full/partial coverage.
+Error Fixes:
+Description of any errors found in the login functionality.
+Explanation of how the code was adjusted to fix these errors.
+Include before and after snippets of code where necessary.
+
+2. Test Cases File:
+
+The complete Java file(s) containing all 5 test cases for the login functionality.
+Ensure that each test case includes multiple assertions to validate different aspects of the login process (e.g., username validation, password validation, database connection).
